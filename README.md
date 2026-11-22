@@ -136,7 +136,7 @@ flowchart LR
 | Feb | Vibe Coding and Quantum Computing + ML workshops at NIT Puducherry |
 | Jun | ML, AI and Data Science internship at CodeBind Technologies |
 | Sep | Quantexa 24-Hour Hackathon and the quantum traffic project |
-| 2026 | Organiser, YUVA 2026 |
+| Oct | Organiser, YUVA 2026 |
 | Nov | TCS iON Career Edge: Young Professional |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a0000,100:ff1e1e&height=3" width="100%">

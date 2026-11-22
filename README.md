@@ -119,6 +119,11 @@ then delete the "<!--" and "-->" lines around this block.
 </div>
 
 ---
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/mithulpranavv-dev/mithulpranavv-dev/output/github-snake-dark.svg)
+
+</div>
 
 ## 💬 Let's Connect
 

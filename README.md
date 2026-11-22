@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&color=FF1E1E&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Mithul;Building+AI+apps+in+Python;Learning+LLMs+and+quantum+computing;Organiser+of+YUVA+2026+national+tech+fest;Looking+for+summer+2027+AI%2FML+internships)](https://github.com/mithulpranavv-dev)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mithulpranavv-dev&color=red&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/mithulpranavv-dev?style=for-the-badge&color=E50914&labelColor=111111)
-![Repos](https://img.shields.io/github/repositories/mithulpranavv-dev?style=for-the-badge&color=E50914&labelColor=111111)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS-E50914?style=for-the-badge&labelColor=111111)
+![Location](https://img.shields.io/badge/BASED_IN-TIRUCHIRAPPALLI-111111?style=for-the-badge&labelColor=E50914)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithul-pranav-m-53979a37a/)
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=ff1e1e)](mailto:mithulpranavv@gmail.com)

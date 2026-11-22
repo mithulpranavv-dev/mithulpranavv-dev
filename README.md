@@ -1,18 +1,18 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Mithul%20Pranav%20M&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20and%20ML%20Student%20at%20SRMIST&descSize=20&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5c0000,100:ff1e1e&height=260&section=header&text=Mithul%20Pranav%20M&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20and%20ML%20Student%20at%20SRMIST&descSize=20&descAlignY=62)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2E86DE&center=true&vCenter=true&width=900&lines=Building+AI+apps+in+Python;Learning+LLMs+and+quantum+computing;Organiser+of+YUVA+2026+national+tech+fest;Looking+for+summer+2027+AI%2FML+internships)](https://github.com/mithulpranavv-dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF1E1E&center=true&vCenter=true&width=900&lines=Building+AI+apps+in+Python;Learning+LLMs+and+quantum+computing;Organiser+of+YUVA+2026+national+tech+fest;Looking+for+summer+2027+AI%2FML+internships)](https://github.com/mithulpranavv-dev)
 
-![Profile views](https://komarev.com/ghpvc/?username=mithulpranavv-dev&color=2E86DE&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=mithulpranavv-dev&color=red&style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithul-pranav-m-53979a37a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithulpranavv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithulpranavv-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithul-pranav-m-53979a37a/)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=ff1e1e)](mailto:mithulpranavv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithulpranavv-dev)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a0000,100:ff1e1e&height=3" width="100%">
 
 ## 👋 About Me
 
@@ -32,19 +32,19 @@ const mithul = {
 };
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a0000,100:ff1e1e&height=3" width="100%">
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=py,java,c,react,fastapi,git,github,vscode&perline=8)
+![Skills](https://skillicons.dev/icons?i=py,java,c,react,fastapi,git,github,vscode&perline=8&theme=dark)
 
 </div>
 
 **AI and ML:** Machine learning · Logistic regression · Text embeddings (sentence-transformers) · LLM APIs (Groq) · Qiskit (QUBO, QAOA) · NetworkX
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a0000,100:ff1e1e&height=3" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -55,16 +55,49 @@ const mithul = {
 | **Recruitment and Candidate Recommendation Platform** | Ranks candidates for a role using logistic classification. Built during my CodeBind internship | Python, machine learning |
 | **AI-Integrated Staff Management Portal** | Team project of three, with a full project report | SRMIST team project |
 
-<!--
-PINNED REPO CARDS (optional): replace REPO_NAME with your real repository names,
-then delete the "<!--" and "-->" lines around this block.
+### 🔍 How two of them work
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=mithulpranavv-dev&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/mithulpranavv-dev/REPO_NAME)
--->
+**Quantum traffic optimiser**
 
----
+```mermaid
+flowchart LR
+    A[Road network as a graph<br/>NetworkX] --> B[Signal timing as a QUBO]
+    B --> C[Solve with QAOA<br/>Qiskit]
+    B --> D[Classical baselines<br/>fixed-time and greedy]
+    C --> E[Compare results]
+    D --> E
+    E --> F[Streamlit dashboard]
+    classDef red fill:#3a0000,stroke:#ff1e1e,color:#ffffff
+    class A,B,C,D,E,F red
+```
 
-## 🎓 Experience and Certifications
+**AI learning platform**
+
+```mermaid
+flowchart LR
+    A[Learner profile and<br/>uploaded study material] --> B[Competency gap analysis]
+    A --> C[Text embeddings<br/>sentence-transformers]
+    C --> D[Course recommendations]
+    A --> E[LLM via Groq API]
+    E --> F[Generated quizzes]
+    classDef red fill:#3a0000,stroke:#ff1e1e,color:#ffffff
+    class A,B,C,D,E,F red
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a0000,100:ff1e1e&height=3" width="100%">
+
+## 🏅 Certifications and Recognition
+
+<div align="center">
+
+![TCS iON](https://img.shields.io/badge/TCS_iON-Career_Edge_Young_Professional-E50914?style=for-the-badge)
+![NIT Puducherry](https://img.shields.io/badge/NIT_Puducherry-Quantum_Computing_and_ML-8B0000?style=for-the-badge)
+![NIT Puducherry](https://img.shields.io/badge/NIT_Puducherry-Vibe_Coding-111111?style=for-the-badge)
+![CodeBind](https://img.shields.io/badge/CodeBind-Python_ML_AI_Internship-B30000?style=for-the-badge)
+![HackHere](https://img.shields.io/badge/HackHere-Quantexa_24h_Hackathon-1A1A1A?style=for-the-badge)
+![YUVA](https://img.shields.io/badge/SRMIST-YUVA_2026_Organiser-E50914?style=for-the-badge)
+
+</div>
 
 <details open>
 <summary><b>Internship</b></summary>
@@ -91,7 +124,7 @@ then delete the "<!--" and "-->" lines around this block.
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a0000,100:ff1e1e&height=3" width="100%">
 
 ## 🗓️ My Journey in 2026
 
@@ -103,36 +136,46 @@ then delete the "<!--" and "-->" lines around this block.
 | 2026 | Organiser, YUVA 2026 |
 | Nov | TCS iON Career Edge: Young Professional |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a0000,100:ff1e1e&height=3" width="100%">
+
+## 🎯 Goals for 2027
+
+- [ ] Land an AI/ML internship for summer 2027
+- [ ] Publish my projects on GitHub, each with a clear README
+- [ ] Keep building: more LLM and quantum projects
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a0000,100:ff1e1e&height=3" width="100%">
+
+## 💬 Ask Me About
+
+- Modelling traffic signals as a QUBO and solving them with QAOA
+- Recommending courses with text embeddings
+- Organising a national-level tech fest
+- Getting started with hackathons as a first-time participant
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a0000,100:ff1e1e&height=3" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mithulpranavv-dev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithulpranavv-dev&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mithulpranavv-dev&show_icons=true&title_color=ff1e1e&icon_color=ff1e1e&text_color=ffffff&bg_color=0d0d0d&border_color=7a0000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithulpranavv-dev&layout=compact&title_color=ff1e1e&text_color=ffffff&bg_color=0d0d0d&border_color=7a0000)
 
-![Streak](https://streak-stats.demolab.com?user=mithulpranavv-dev&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=mithulpranavv-dev&background=0d0d0d&stroke=7a0000&ring=ff1e1e&fire=ff1e1e&currStreakLabel=ff1e1e&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&border=7a0000)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=mithulpranavv-dev&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/mithulpranavv-dev/mithulpranavv-dev/output/github-snake-dark.svg)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=mithulpranavv-dev&bg_color=0d0d0d&color=ff1e1e&line=ff1e1e&point=ffffff&area=true&area_color=ff1e1e&hide_border=true)
 
 </div>
 
-## 💬 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a0000,100:ff1e1e&height=3" width="100%">
+
+## 🤝 Let's Connect
 
 Open to **AI/ML internships**, **collaborations** and **open source**. Message me on [LinkedIn](https://www.linkedin.com/in/mithul-pranav-m-53979a37a/) or [email](mailto:mithulpranavv@gmail.com).
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff1e1e,50:5c0000,100:000000&height=120&section=footer)
 
 </div>
